@@ -8,3 +8,7 @@
 Целевая аудитория: психически уравновешенные любители шутанов
 
 Игры - референсы: quake
+
+
+Иерархия папок:
+https://drive.google.com/file/d/1QeQrsUvtYErxCBTcHNrXKPZFoFdjA1HH/view?usp=sharing
