@@ -11,3 +11,6 @@
 
 Иерархия папок:
 https://drive.google.com/file/d/1QeQrsUvtYErxCBTcHNrXKPZFoFdjA1HH/view?usp=sharing
+
+Диаграмма классов:
+https://drive.google.com/file/d/16swUzsVlFr87Rmw0x_YCmL95tjWiLEjg/view?usp=sharing
